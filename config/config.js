@@ -1,23 +1,23 @@
 module.exports = {
         development: {
                 username: "postgres",
-                password: "Bef4E6Bb5eG6D1cG2B2E*gaCd6bB62eE",
-                database: "railway",
-                host: "monorail.proxy.rlwy.net",
+                password: "new_password",
+                database: "WearItAgain",
+                host: "127.0.0.1",
                 dialect: "postgres",
         },
         test: {
                 username: "postgres",
-                password: "Bef4E6Bb5eG6D1cG2B2E*gaCd6bB62eE",
-                database: "railway",
-                host: "monorail.proxy.rlwy.net",
+                password: "new_password",
+                database: "WearItAgain",
+                host: "127.0.0.1",
                 dialect: "postgres",
         },
         production: {
                 username: "postgres",
-                password: "Bef4E6Bb5eG6D1cG2B2E*gaCd6bB62eE",
-                database: "railway",
-                host: "monorail.proxy.rlwy.net",
+                password: "new_password",
+                database: "WearItAgain",
+                host: "127.0.0.1",
                 dialect: "postgres",
         },
 };
